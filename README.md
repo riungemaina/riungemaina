@@ -1,5 +1,5 @@
 
 ```
-I'm JavaScript Engineer with an impeccable taste in modern UI/UX Design;
+I'm JavaScript Engineer at Viewcy with an impeccable taste in modern UI/UX Design;
 ```
 
